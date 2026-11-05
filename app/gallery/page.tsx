@@ -1,0 +1,8 @@
+import type { Metadata } from "next";
+import { GalleryExplorer } from "@/components/interactive";
+import { PageHero, SectionHeading } from "@/components/editorial";
+export const metadata: Metadata = { title: "Archival Gallery", description: "A curated selection of Pakistani military-related photographs with individual source and licence records." };
+export default function GalleryPage() { return <>
+  <PageHero label="ARCHIVAL GALLERY / 05" title={<>Photographs with<br /><em>a provenance trail.</em></>} description="A limited collection of military-related images from Wikimedia Commons. Every item is tied to an individual file page, creator credit and stated reuse licence. Contextual images are never represented as ISI-specific evidence." meta={["04 REVIEWED IMAGE RECORDS", "INDIVIDUAL FILE PAGES", "LICENCE METADATA"]} />
+  <section className="section-paper content-section"><div className="wrap"><SectionHeading kicker="THE IMAGE REGISTER" title={<>An image is also a<br /><em>historical source.</em></>} description="Select an image to inspect its caption, source page and licence details. Use the arrow keys to move through the lightbox and Escape to close it." /><GalleryExplorer /><div className="gallery-policy-note"><span className="eyebrow">HOW THESE IMAGES ARE USED</span><p>Photographs depict Pakistani military personnel or historical settings as described on their respective Wikimedia Commons file pages. A general service photograph is contextual imagery only; it does not establish ISI affiliation, agency premises or participation in a named operation.</p><a className="text-link" href="/image-credits">OPEN IMAGE CREDITS & LICENCE REGISTER ↗</a></div></div></section>
+</>; }

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+  <title id="title">Archival photograph unavailable</title>
+  <desc id="desc">A neutral museum-style placeholder for a photograph that could not be loaded.</desc>
+  <rect width="900" height="650" fill="#e5e0d5"/>
+  <path d="M70 70h760v510H70z" fill="none" stroke="#9d7b43" stroke-width="2"/>
+  <path d="M92 92h716v466H92z" fill="none" stroke="#b9ad98" stroke-width="1"/>
+  <g fill="none" stroke="#9d7b43" stroke-width="2" opacity=".7">
+    <circle cx="450" cy="260" r="66"/><circle cx="450" cy="260" r="46"/>
+    <path d="M450 177v166M367 260h166M391 201l118 118M509 201 391 319"/>
+  </g>
+  <text x="450" y="395" text-anchor="middle" fill="#182635" font-family="Georgia,serif" font-size="37">ARCHIVAL IMAGE</text>
+  <text x="450" y="432" text-anchor="middle" fill="#697580" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">TEMPORARILY UNAVAILABLE</text>
+  <text x="450" y="480" text-anchor="middle" fill="#697580" font-family="Arial,sans-serif" font-size="12">Open the original file page for the photograph and licence record.</text>
+</svg>

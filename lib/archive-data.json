@@ -1,0 +1,470 @@
+{
+  "lastUpdated": "5 November 2026",
+  "sources": [
+    {
+      "id": "S1",
+      "short": "EUAA — Country Guidance: Pakistan, §3.2.3 (October 2026)",
+      "title": "3.2.3. Inter-Services Intelligence (ISI)",
+      "publisher": "European Union Agency for Asylum",
+      "date": "October 2026",
+      "kind": "Country guidance",
+      "url": "https://dip-aws.euaa.europa.eu/country-guidance-pakistan/323-inter-services-intelligence-isi",
+      "note": "Recent institutional overview. The page describes the ISI as a military-run intelligence body and includes reported surveillance and human-rights concerns. Country guidance is a synthesis, not a complete public organisational record."
+    },
+    {
+      "id": "S2",
+      "short": "EUAA — Pakistan: Country Focus, §3.1.3 (June 2026)",
+      "title": "3.1.3. Inter-Services Intelligence (ISI)",
+      "publisher": "European Union Agency for Asylum",
+      "date": "June 2026",
+      "kind": "Country-of-origin information",
+      "url": "https://www.euaa-preprod-aws.euaa.europa.eu/pakistan-country-focus/313-inter-services-intelligence-isi",
+      "note": "The report states that the ISI was established in 1948 and summarises public descriptions of its foreign-intelligence, counter-intelligence and domestic roles."
+    },
+    {
+      "id": "S3",
+      "short": "CRS — Pakistan-U.S. Relations (1 July 2009)",
+      "title": "Pakistan-U.S. Relations",
+      "publisher": "Congressional Research Service; K. Alan Kronstadt",
+      "date": "1 July 2009",
+      "kind": "Congressional research report",
+      "url": "https://www.everycrsreport.com/reports/RL33498.html",
+      "note": "A contemporaneous policy report describing the post-9/11 relationship, intelligence cooperation and longstanding areas of U.S.-Pakistan disagreement. Historical rather than current institutional guidance."
+    },
+    {
+      "id": "S4",
+      "short": "CRS — Pakistan-U.S. Relations (R41832)",
+      "title": "Pakistan-U.S. Relations",
+      "publisher": "Congressional Research Service",
+      "date": "24 May 2012",
+      "kind": "Congressional research report",
+      "url": "https://www.everycrsreport.com/reports/R41832.html",
+      "note": "Discusses U.S.-Pakistan intelligence cooperation, including ties dating to the 1980s, and questions raised about the ISI’s role. Check report date and cited references when using a specific passage."
+    },
+    {
+      "id": "S5",
+      "short": "CRS — War in Afghanistan: Strategy, Operations, and Issues for Congress (2011)",
+      "title": "War in Afghanistan: Strategy, Operations, and Issues for Congress",
+      "publisher": "Congressional Research Service",
+      "date": "9 March 2011 (updated report)",
+      "kind": "Congressional research report",
+      "url": "https://www.everycrsreport.com/reports/R40156.html",
+      "note": "Places the 1980s Afghan resistance and U.S. assistance through Pakistan’s Inter-Services Intelligence Directorate in a broader historical account."
+    },
+    {
+      "id": "S6",
+      "short": "Hein G. Kiessling — Faith, Unity, Discipline: The ISI of Pakistan (2016)",
+      "title": "Faith, Unity, Discipline: The ISI of Pakistan",
+      "publisher": "Hein G. Kiessling; Hurst & Company",
+      "date": "2016",
+      "kind": "Historical monograph",
+      "url": "https://hurstpublishers.com/book/faith-unity-discipline/",
+      "note": "A book-length historical account. The book is a secondary source; its interpretations should be read alongside independent scholarship and primary records."
+    },
+    {
+      "id": "S7",
+      "short": "Oxford Academic — review of Faith, Unity, Discipline (2017)",
+      "title": "Faith, unity, discipline: the ISI of Pakistan",
+      "publisher": "International Affairs, Oxford University Press; Farzana Shaikh",
+      "date": "1 March 2017",
+      "kind": "Academic book review",
+      "url": "https://academic.oup.com/ia/article-abstract/93/2/504/3056120",
+      "note": "Bibliographic review of Kiessling’s 2016 historical monograph."
+    },
+    {
+      "id": "S10",
+      "short": "EASO — Pakistan: Security Situation (October 2021)",
+      "title": "Pakistan: Security Situation — Country of Origin Information Report",
+      "publisher": "European Asylum Support Office (now EUAA)",
+      "date": "October 2021",
+      "kind": "Country-of-origin information report",
+      "url": "https://www.euaa.europa.eu/sites/default/files/publications/2021_10_EASO_COI_Report_Pakistan_Security_situation.pdf#page=26",
+      "note": "An older public country report which describes intelligence coordination between military branches. Its cited description is historical public reporting, not a current organisational chart. Relevant discussion appears in the section ‘Inter-Services Intelligence (ISI)’, printed page 26."
+    },
+    {
+      "id": "S9",
+      "short": "IPCS — review / discussion of Faith, Unity, Discipline",
+      "title": "Faith, Unity, Discipline: The Inter-Service-Intelligence (ISI)",
+      "publisher": "Institute of Peace and Conflict Studies",
+      "date": "2017",
+      "kind": "Research institute commentary",
+      "url": "https://ipcs.org/comm_select.php?articleNo=5226",
+      "note": "A discussion by Hein G. Kiessling of his historical work, including the agency’s 1948 founding and the 1971 loss of East Pakistan. It is an author’s account, not a primary document."
+    },
+    {
+      "id": "S8",
+      "short": "EUAA — Pakistan: Country Focus (December 2024)",
+      "title": "Country of Origin Information: Pakistan — Country Focus",
+      "publisher": "European Union Agency for Asylum",
+      "date": "December 2024",
+      "kind": "Country-of-origin information",
+      "url": "https://www.euaa.europa.eu/sites/default/files/publications/2024-12/2024_12_EUAA_COI_Report_Pakistan_Country_Focus.pdf",
+      "note": "Broader political and security context. Use the report’s numbered footnotes and original sources for detailed claims."
+    }
+  ],
+  "images": [
+    {
+      "id": "I1",
+      "title": "Pakistan Day Parade — 23 March",
+      "creator": "Imniazi001",
+      "date": "18 March 2016 (file metadata)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pakistan_Day_Parade_-_23_March.jpg",
+      "assetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Pakistan_Day_Parade_-_23_March.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Photo: Imniazi001, ‘Pakistan Day Parade - 23 March’, CC BY-SA 4.0, via Wikimedia Commons. No changes made.",
+      "edits": "No file edits. Responsive display crop may vary by screen.",
+      "depicts": "A march-past by a Pakistani military contingent. The Commons file description identifies it as a military contingent; the file title refers to Pakistan Day Parade.",
+      "used": "Homepage hero; Gallery",
+      "alt": "Pakistani military contingent members in khaki ceremonial uniforms and green berets during a parade march-past.",
+      "caption": "A military march-past photographed on 18 March 2016. Contextual Pakistani military imagery only; this is not an ISI photograph."
+    },
+    {
+      "id": "I2",
+      "title": "Pakistani Soldiers on a Captured Indian Centurion Tank",
+      "creator": "Pakistan Army (as credited on file page)",
+      "date": "6–23 September 1965 (file metadata)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pakistani_soldiers_on_a_captured_Indian_Centurion_Tank.jpg",
+      "assetUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Pakistani_soldiers_on_a_captured_Indian_Centurion_Tank.jpg",
+      "license": "Public domain in Pakistan (Commons file-page rationale: term of copyright expired under the Pakistan Copyright Ordinance)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pakistani_soldiers_on_a_captured_Indian_Centurion_Tank.jpg#Licensing",
+      "attribution": "Source/author credit shown on Commons: Pakistan Army. File page lists the work as public domain in Pakistan.",
+      "edits": "No file edits. Responsive display crop may vary by screen.",
+      "depicts": "Pakistani soldiers posing on a captured Indian Centurion main battle tank; the file page dates the image to September 1965.",
+      "used": "Gallery; Historical case studies",
+      "alt": "Archival photograph of Pakistani soldiers on a captured Centurion tank, September 1965.",
+      "caption": "The Commons file page dates this photograph to September 1965 and credits the Pakistan Army as its source and author."
+    },
+    {
+      "id": "I3",
+      "title": "1965 War",
+      "creator": "Inter Services Public Relations (ISPR; as credited on file page)",
+      "date": "September 1965",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1965_War.jpg",
+      "assetUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/1965_War.jpg",
+      "license": "Public domain in Pakistan (Commons file-page rationale: term of copyright expired under the Pakistan Copyright Ordinance)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:1965_War.jpg#Licensing",
+      "attribution": "Author credit shown on Commons: Inter Services Public Relations (ISPR). File page lists the work as public domain in Pakistan.",
+      "edits": "No file edits. Responsive display crop may vary by screen.",
+      "depicts": "Pakistani soldiers taking cover near a canal during the September 1965 war, according to the Commons caption.",
+      "used": "Gallery; Historical case studies",
+      "alt": "Black-and-white archival image of Pakistani soldiers taking defensive positions near a canal in September 1965.",
+      "caption": "The Commons description identifies Pakistani soldiers near a canal in September 1965; ISPR is credited as author."
+    },
+    {
+      "id": "I4",
+      "title": "Eftikhar Khan Janjua — Military Portrait",
+      "creator": "Pakistan Army (as credited on file page)",
+      "date": "1971 (file metadata)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Eftikhar_Khan_Janjua.jpg",
+      "assetUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Eftikhar_Khan_Janjua.jpg",
+      "license": "Creative Commons Attribution 1.0 Generic (CC BY 1.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by/1.0/",
+      "attribution": "Author credit shown on Commons: Pakistan Army, ‘Eftikhar Khan Janjua.jpg’, CC BY 1.0, via Wikimedia Commons. No changes made.",
+      "edits": "No file edits. Responsive display crop may vary by screen.",
+      "depicts": "A military portrait identified by the Commons file page as Major General Eftikhar Khan Janjua, Pakistan Army. The file page lists 1971 and ‘online web circulation’ as source.",
+      "used": "Gallery; History",
+      "alt": "Monochrome military portrait of Major General Eftikhar Khan Janjua in Pakistan Army uniform.",
+      "caption": "A military portrait identified on Wikimedia Commons as Major General Eftikhar Khan Janjua; the file page lists 1971."
+    }
+  ],
+  "roles": [
+    {
+      "n": "01",
+      "title": "Foreign intelligence and assessment",
+      "summary": "Public country-of-origin reporting describes the ISI as having a foreign-intelligence role. This is a broad institutional description, not a disclosure of current collection methods, priorities or capabilities.",
+      "evidence": "Documented in public reporting",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "n": "02",
+      "title": "Counter-intelligence",
+      "summary": "The EUAA’s June 2026 Country Focus describes counter-intelligence among the agency’s publicly reported functions. The public record does not establish the details of any internal unit or procedure.",
+      "evidence": "Reported in public country information",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "n": "03",
+      "title": "Domestic security and surveillance — reported",
+      "summary": "The EUAA’s October 2026 guidance reports surveillance concerns, including allegations concerning communications monitoring and links to repression. These are serious reported claims and are presented here as such, not as a complete or independently adjudicated account.",
+      "evidence": "Reported / contested public record",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "n": "04",
+      "title": "Inter-service and inter-agency context",
+      "summary": "Older public country information describes intelligence coordination between the armed-services branches. Public descriptions vary by period and source; no current organisational chart is inferred here.",
+      "evidence": "Historical public description",
+      "sources": [
+        "S10"
+      ]
+    },
+    {
+      "n": "05",
+      "title": "Regional and bilateral intelligence relationships",
+      "summary": "Congressional research reports document U.S.–Pakistan intelligence cooperation related to Afghanistan during the 1980s and after 2001. Those accounts describe particular historical relationships, not the agency’s entire regional activity.",
+      "evidence": "Documented historical reporting",
+      "sources": [
+        "S3",
+        "S4",
+        "S5"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1948",
+      "era": "Foundations",
+      "title": "The ISI is established",
+      "summary": "The EUAA’s June 2026 Country Focus states that the Inter-Services Intelligence Directorate was established in 1948. The available public sources used here do not provide enough primary documentation to reconstruct every detail of its founding arrangements.",
+      "status": "Documented",
+      "topic": "Institutional history",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "date": "1971",
+      "era": "Foundations",
+      "title": "War, separation and institutional reassessment",
+      "summary": "The 1971 war and the separation of East Pakistan were major turning points in Pakistan’s national-security history. Later historical writing treats the period as an important test for the country’s military and intelligence institutions; this archive does not assign the outcome to a single agency.",
+      "status": "Historical context",
+      "topic": "Regional history",
+      "sources": [
+        "S6",
+        "S7",
+        "S9"
+      ]
+    },
+    {
+      "date": "1980s",
+      "era": "Cold War",
+      "title": "U.S.–Pakistan intelligence cooperation in Afghanistan",
+      "summary": "Congressional Research Service accounts describe American and Pakistani intelligence officers working together to train and supply Afghan resistance groups fighting Soviet forces, with U.S. assistance channelled through Pakistan’s ISI. The wider policy relationship also contained mistrust and competing interests.",
+      "status": "Documented in public reporting",
+      "topic": "Foreign relations",
+      "sources": [
+        "S3",
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "date": "2001 onward",
+      "era": "Post-2001",
+      "title": "A transformed U.S.–Pakistan security relationship",
+      "summary": "After the attacks of 11 September 2001, Pakistan became a key partner in U.S.-led counterterrorism efforts. The 2009 CRS report describes cooperation alongside persistent questions about policy alignment and trust.",
+      "status": "Documented in public reporting",
+      "topic": "Counterterrorism policy",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "date": "2008–2009",
+      "era": "Post-2001",
+      "title": "Questions about the ISI’s role enter sharper public debate",
+      "summary": "The 2009 Congressional Research Service report records renewed U.S. scrutiny and competing assessments of the agency’s influence, autonomy and relationship with Pakistan’s military leadership. These are attributed policy assessments, not a definitive organisational finding.",
+      "status": "Reported / debated",
+      "topic": "Public accountability",
+      "sources": [
+        "S3"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "id": "afghan-war-1980s",
+      "year": "1980s",
+      "title": "Afghanistan, the Cold War and intelligence cooperation",
+      "category": "Foreign relations",
+      "status": "Documented in public reporting",
+      "summary": "How public Congressional Research Service accounts describe the U.S.–Pakistan intelligence relationship during the Soviet-Afghan War — and why cooperation did not remove mutual mistrust.",
+      "sources": [
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "body": [
+        {
+          "h": "Historical setting",
+          "p": "The Soviet invasion of Afghanistan in December 1979 reshaped regional security. During the 1980s, Afghan resistance groups fought Soviet forces and the Afghan government they supported. U.S. assistance to these groups was channelled through Pakistan’s Inter-Services Intelligence Directorate, according to Congressional Research Service histories."
+        },
+        {
+          "h": "What the sources establish",
+          "p": "CRS reporting describes American and Pakistani intelligence officers overseeing cooperative efforts to train and supply Afghan resistance groups. This supports a high-level account of bilateral cooperation; it does not provide a complete operational record, a full chain of command, or a reliable inventory of every recipient group."
+        },
+        {
+          "h": "The relationship was not simple",
+          "p": "The 2009 CRS report describes a relationship marked by both cooperation and mistrust. The same report records long-running U.S. questions about the ISI’s aims and role. The archive therefore avoids turning this history into a one-sided story of either seamless partnership or total disagreement."
+        },
+        {
+          "h": "Attribution note",
+          "p": "This case study concerns publicly documented intelligence cooperation related to Afghanistan. It does not claim that every Afghan resistance activity, later militant movement or regional event was directed by the ISI."
+        }
+      ]
+    },
+    {
+      "id": "post-2001-partnership",
+      "year": "2001 onward",
+      "title": "After 11 September: partnership and competing priorities",
+      "category": "Counterterrorism policy",
+      "status": "Documented in public reporting",
+      "summary": "The post-9/11 realignment made Pakistan a key U.S. counterterrorism partner while leaving persistent policy disagreements in view.",
+      "sources": [
+        "S3",
+        "S4"
+      ],
+      "body": [
+        {
+          "h": "A changed strategic environment",
+          "p": "The 11 September 2001 attacks and the subsequent U.S.-led campaign in Afghanistan transformed the U.S.–Pakistan relationship. The 2009 Congressional Research Service report describes Pakistan’s enlistment as a key ally in U.S.-led counterterrorism efforts."
+        },
+        {
+          "h": "Cooperation and friction",
+          "p": "The same report records praise for cooperation alongside doubts about the consistency of policy priorities. This is a useful reminder that intelligence partnerships are political relationships: shared objectives in one period or theatre do not prove agreement on every issue."
+        },
+        {
+          "h": "What this does not prove",
+          "p": "A general description of bilateral cooperation cannot establish the attribution of a specific operation, the identity of individual sources, or the precise role of a particular agency in an event. Such claims require their own reliable evidence."
+        }
+      ]
+    },
+    {
+      "id": "public-accountability",
+      "year": "2008–2026 reporting",
+      "title": "Institutional influence, oversight and public accountability",
+      "category": "Public accountability",
+      "status": "Reported / contested",
+      "summary": "A reading guide to public assessments of intelligence influence, civilian oversight and allegations of rights violations — with careful separation of synthesis and adjudicated fact.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S8"
+      ],
+      "body": [
+        {
+          "h": "Why public accountability is difficult to assess",
+          "p": "Intelligence institutions operate partly outside ordinary public visibility. As a result, public accounts often combine official statements, court records, journalism, academic analysis and human-rights reporting. These materials do not all carry the same evidentiary weight."
+        },
+        {
+          "h": "What recent country guidance reports",
+          "p": "The EUAA’s October 2026 country guidance describes the ISI as a military-run body and summarises reports about communications monitoring and human-rights concerns. The page uses reporting language for these claims; it should not be read as a court judgment or a complete account of every alleged incident."
+        },
+        {
+          "h": "How this archive labels claims",
+          "p": "A claim is marked ‘Documented’ when supported by strong primary evidence or multiple credible sources; ‘Reported’ when credible attribution exists but the public primary record is incomplete; and ‘Disputed’ when credible accounts materially disagree. Allegations are not silently upgraded into established fact."
+        },
+        {
+          "h": "Questions the public record cannot settle",
+          "p": "The source set used here cannot establish the full internal structure, current operational capabilities, classified directives, or every chain of responsibility. The archive leaves those questions open rather than filling them with speculation."
+        }
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "reading-the-record",
+      "date": "5 November 2026",
+      "category": "Research method",
+      "title": "How to read an intelligence history responsibly",
+      "reading": "5 min read",
+      "summary": "A practical framework for separating public documentation, reporting, allegation and interpretation when the institution itself is partly opaque.",
+      "sources": [
+        "S1",
+        "S3",
+        "S6",
+        "S7"
+      ],
+      "body": [
+        {
+          "h": "Start with the source, not the story",
+          "p": "A dramatic claim can circulate for years without becoming better evidenced. Before repeating it, identify who made the claim, when it was published, what evidence was cited and whether another independent source confirms it."
+        },
+        {
+          "h": "Separate the event date from the publication date",
+          "p": "A 2026 report can describe an event from decades earlier. Both dates matter. This archive records them separately so that a newly published summary is not mistaken for a new historical event."
+        },
+        {
+          "h": "Use attribution precisely",
+          "p": "‘The ISI did’ is a stronger statement than ‘a report attributed the activity to the ISI’. When attribution is indirect or contested, the writing should preserve that distinction in the sentence itself."
+        },
+        {
+          "h": "Treat silence as a limit, not an invitation",
+          "p": "A missing public record does not prove that an event did or did not occur. It means the public record cannot establish it. The responsible response is to state the limit and avoid speculation."
+        },
+        {
+          "h": "The labels used here",
+          "p": "Documented, Reported, Disputed and Unverified are editorial tools, not mathematical confidence scores. Each entry links to its supporting sources so readers can assess the evidence for themselves."
+        }
+      ]
+    },
+    {
+      "id": "agency-and-state",
+      "date": "5 November 2026",
+      "category": "Institutional history",
+      "title": "An intelligence agency within a state security system",
+      "reading": "6 min read",
+      "summary": "A high-level introduction to public descriptions of the ISI, its military context and the limits of what open sources can show.",
+      "sources": [
+        "S1",
+        "S2",
+        "S6",
+        "S7"
+      ],
+      "body": [
+        {
+          "h": "An institution with a partial public record",
+          "p": "The Inter-Services Intelligence Directorate is widely described in public sources as Pakistan’s principal intelligence agency. The EUAA’s October 2026 country guidance describes it as a military-run body led by a three-star army general. Such descriptions provide context; they are not a substitute for a complete public legal or organisational record."
+        },
+        {
+          "h": "Origins",
+          "p": "The EUAA’s June 2026 Pakistan Country Focus states that the ISI was established in 1948. A more detailed history requires specialist scholarship and careful comparison of accounts, including the historical monograph by Hein G. Kiessling."
+        },
+        {
+          "h": "Public descriptions of functions",
+          "p": "Recent EUAA country information describes foreign intelligence, counter-intelligence and domestic-security dimensions. These labels should remain broad. Public summaries cannot establish classified methods, internal reporting lines or current tasking."
+        },
+        {
+          "h": "Power and accountability",
+          "p": "The agency’s place in the wider security system has been debated by researchers and policymakers. That debate includes questions about military influence, civilian oversight and allegations of rights violations. A responsible history must include these debates without treating every allegation as proven."
+        }
+      ]
+    },
+    {
+      "id": "cold-war-relationship",
+      "date": "5 November 2026",
+      "category": "Foreign relations",
+      "title": "The 1980s relationship: cooperation without certainty",
+      "reading": "5 min read",
+      "summary": "What Congressional Research Service accounts say about U.S.–Pakistan intelligence cooperation during the Soviet-Afghan War.",
+      "sources": [
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "body": [
+        {
+          "h": "A regional turning point",
+          "p": "The Soviet invasion of Afghanistan in December 1979 created a new arena of strategic competition. Through the 1980s, the United States supported Afghan resistance groups, with assistance channelled through Pakistan’s ISI, according to public Congressional Research Service histories."
+        },
+        {
+          "h": "The evidence in public accounts",
+          "p": "The 2009 CRS report describes close U.S. links with Pakistan’s ISI dating to the 1980s and identifies cooperative efforts to train and supply Afghan resistance fighters. A separate CRS Afghanistan report also describes U.S. assistance through the ISI."
+        },
+        {
+          "h": "Why nuance matters",
+          "p": "The existence of cooperation does not mean the partners shared every objective. CRS accounts also describe mistrust and disagreement. The public historical record is better understood as a relationship shaped by overlapping interests, unequal information and competing priorities."
+        }
+      ]
+    }
+  ]
+}

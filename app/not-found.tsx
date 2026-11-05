@@ -1,0 +1,2 @@
+import Link from "next/link";
+export default function NotFound() { return <section className="not-found section-navy"><div className="wrap"><span className="eyebrow">ARCHIVE / 404</span><h1>Record not<br /><em>located.</em></h1><p>The page may have moved, or the requested record may not be part of this edition of the archive.</p><Link href="/" className="button button-bronze">RETURN TO THE ARCHIVE ↗</Link></div></section>; }

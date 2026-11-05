@@ -1,0 +1,8 @@
+import type { Metadata } from "next";
+import { ArticleRow, PageHero, SectionHeading } from "@/components/editorial";
+import { articles } from "@/lib/content";
+export const metadata: Metadata = { title: "Research Desk", description: "Editorial essays and research guides on reading Pakistan's intelligence history from public sources." };
+export default function ArticlesPage() { return <>
+  <PageHero label="RESEARCH DESK / 04" title={<>Read the record.<br /><em>Interrogate the claim.</em></>} description="A small editorial desk for historical context, source criticism and the interpretation of public reporting. Each article is linked to its reference set." meta={["EDITORIAL RESEARCH", "SOURCE-LINKED", "PUBLIC MATERIAL ONLY"]} />
+  <section className="section-paper content-section"><div className="wrap"><SectionHeading kicker="FEATURED READING" title={<>Research notes &<br /><em>historical analysis.</em></>} description="The article index is deliberately selective. It prioritises transparent sourcing over volume and avoids presenting uncertain claims as settled fact." /><div className="article-list article-list-page">{articles.map((item, index) => <ArticleRow key={item.id} item={item} index={index} />)}</div><div className="research-principles"><div><span>01</span><strong>Attribution first</strong><p>Claims remain tied to the person or institution making them.</p></div><div><span>02</span><strong>Dates in context</strong><p>Publication dates are not confused with the date of the event described.</p></div><div><span>03</span><strong>Limits made visible</strong><p>Uncertainty is disclosed rather than hidden behind confident prose.</p></div></div></div></section>
+</>; }
